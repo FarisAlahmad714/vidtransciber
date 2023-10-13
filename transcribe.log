@@ -1,0 +1,30 @@
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+ERROR:root:Error transcribing audio: name 'audio_path' is not defined
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\transcribe\settings.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\transcribe\settings.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\transcribe\settings.py changed, reloading.
+ERROR:root:Could not request results from Google Web Speech API; recognition request failed: Unauthorized
+WARNING:django.request:Not Found: /favicon.ico
+ERROR:root:Could not request results from Google Web Speech API; recognition request failed: Unauthorized
+ERROR:root:Could not request results from Google Web Speech API; recognition request failed: Unauthorized
+ERROR:root:Could not request results from Google Web Speech API; recognition request failed: Unauthorized
+INFO:django.utils.autoreload:C:\Users\Faris\OneDrive\Desktop\Code\vidtransciber\app\views.py changed, reloading.
+WARNING:django.request:Not Found: /favicon.ico
